@@ -15,6 +15,7 @@
         android:allowBackup="true"
         android:label="mddormatv"
         android:icon="@mipmap/ic_launcher"
+        android:banner="@mipmap/banner"
         android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
         android:hardwareAccelerated="true">
         
