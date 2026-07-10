@@ -17,7 +17,7 @@ public class MainActivity extends Activity {
     
     // AQUÍ ES DONDE CAMBIARÁS LA URL CUANDO LA SUBAS A TU SERVIDOR PRINCIPAL
     // Por ahora apunta a tu repositorio, pero luego deberás poner: "https://mddorma.com/tv"
-    private final String APP_URL = "https://os-progr.github.io/mddormaTV/#";
+    private final String APP_URL = "https://mddorma.com/tv/";
 
     @SuppressLint("SetJavaScriptEnabled")
     @Override
